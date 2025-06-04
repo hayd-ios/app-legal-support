@@ -1,11 +1,18 @@
-*#Privacy Policy*
+Privacy Policy
 
-RocketSEO is an app created by an indie app developer Hayden Wadsworth. 
+Last Updated: 4th June 2025
 
-No personal data is collected or shared.
+Twice Daily is a mobile application developed by indie developer Hayden Wadsworth.
 
+Data Collection & Privacy
+No Personal Data Collected: This app does not collect, store, or share any personally identifiable information.
 
-*#Support - Contact me*
+All Data Stored Locally: Any information you enter (e.g., reminders, preferences) is securely stored only on your device and is never transmitted externally.
 
-You can find me on Twitter - @hxydey 
-or feel free to email me:  - hxydenw@yahoo.com
+No Third-Party Sharing: Your data remains private and is not shared with advertisers, analytics tools, or other services.
+
+For questions about this policy, contact: hayden@victra.studio.
+
+Support
+Have feedback, questions, or need help? Feel free to reach out at:
+📧 hayden@victra.studio
